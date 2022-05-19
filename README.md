@@ -17,7 +17,7 @@ The necessary dependencies can be found in the `OGLPack` directory.
 The project looks for directories on the T:\ drive, therefore additional configuration is required.
 
 To run the simulation:
-1. Extract and copy the `OGLPack` to the root of drive `C:\`.
+1. Extract and copy the `OGLPack` directory to the root of drive `C:\`.
 2. Launch the command line and apply the following command:
    `subst t: c:\`
    Result: The drive C:\ is cloned as drive T:\
@@ -26,8 +26,8 @@ To run the simulation:
 5. Launch the simulation by clicking on the `Local Windows Debugger` button in the menu bar.
 
 To close the drive `T:\`:
-a. The clone drive ceases to exist at system shutdown.
-b. Launch the command line and apply the following command:
+- The clone drive ceases to exist at system shutdown.
+- Launch the command line and apply the following command:
    `subst /D t:`
 
 ## Control the Simulation
@@ -35,3 +35,5 @@ b. Launch the command line and apply the following command:
 Use WASD to move through the virtual world.
 The camera can be adjusted by keeping the left mouse button down and moving the mouse around.
 Use the various options in the GUI window to change the attributes of the simulation, for example, to determine how tall the trees can grow or how fast a year proceeds.
+
+![Forest](forest.gif)
