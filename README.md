@@ -17,7 +17,7 @@ The necessary dependencies can be found in the `OGLPack` directory.
 The project looks for directories on the T:\ drive, therefore additional configuration is required.
 
 To run the simulation:
-1. Copy the `OGLPack` to the root of drive `C:\`.
+1. Extract and copy the `OGLPack` to the root of drive `C:\`.
 2. Launch the command line and apply the following command:
    `subst t: c:\`
    Result: The drive C:\ is cloned as drive T:\
