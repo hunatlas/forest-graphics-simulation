@@ -2,7 +2,7 @@
 
 Graphical Simulation of a Continuously Growing Forest with OpenGL
 
-I study and interested in computer graphics and completed the following practice project to prepare for the final exam.
+I study and am interested in computer graphics and completed the following practice project to prepare for the final exam.
 
 ## Prerequisites
 
