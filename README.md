@@ -1,6 +1,6 @@
 # Forest Graphics Simulation
 
-Graphical Simulation of a Continuously Growing Forest with OpenGL
+Graphical simulation of a continuously growing forest with OpenGL.
 
 I study and am interested in computer graphics and completed the following practice project to prepare for the final exam.
 
@@ -20,7 +20,7 @@ To run the simulation:
 1. Extract and copy the `OGLPack` directory to the root of drive `C:\`.
 2. Launch the command line and apply the following command:
    `subst t: c:\`
-   Result: The drive C:\ is cloned as drive T:\
+   Result: The drive `C:\` is cloned as drive `T:\`.
 3. Navigate to the `01_OGLBase` directory.
 4. Launch the `01_OGLBase.sln` file.
 5. Launch the simulation by clicking on the `Local Windows Debugger` button in the menu bar.
